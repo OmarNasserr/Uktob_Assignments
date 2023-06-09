@@ -1,0 +1,28 @@
+.input-form {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.input-form form {
+  margin-bottom: 20px;
+}
+
+.input-form input {
+  padding: 10px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.input-form button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.input-form .error {
+  color: red;
+  margin-top: 10px;
+}
